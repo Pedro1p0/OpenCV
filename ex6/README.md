@@ -1,2 +1,2 @@
 Na detecção de camera, ao passar a mão na frente da camera ela detecta movimento com facilidade, mas quando se trata de movimentos longe da camera ela não está detectando com facilidade. 
-[deteccao de imagem]([/deteccao_movimento.png)](https://github.com/Pedro1p0/OpenCV/blob/529e9a5c81e118234b25e532d6c0677bb1989dfb/ex6/deteccao_movimento.png)https://github.com/Pedro1p0/OpenCV/blob/529e9a5c81e118234b25e532d6c0677bb1989dfb/ex6/deteccao_movimento.png)
+![deteccao de imagem](ex6/deteccao_movimento.png)
